@@ -5,5 +5,4 @@
 3. Jika NIM Kalian Tidak Ada di Daftar Folder, Silahkan Hubungi Asisten Yang Bersangkutan.
 
 # Tugas Praktikum 1
-
-On Going
+Pengumpulan Tugas Praktikum Terakhir Tanggal 12 September 2019, Pukul 23:59 WITA.
