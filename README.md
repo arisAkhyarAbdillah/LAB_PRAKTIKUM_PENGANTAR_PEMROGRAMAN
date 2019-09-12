@@ -10,4 +10,5 @@
 ## Tugas Praktikum 1
 Pengumpulan Tugas Praktikum Terakhir Tanggal **12 September 2019, Pukul 23:59 WITA.**
 
-
+## Tugas Praktikum 2
+Pengumpulan Tugas Praktikum Terakhir Tanggal **20 September 2019, Pukul 23:59 WITA.**
