@@ -4,6 +4,9 @@
 2. Untuk Pengumpulan Tugas, Silahkan Buat Folder di Dalam Folder NIM kalian. Contoh "TUGAS PRAKTIKUM 1".
 3. Jika NIM Kalian Tidak Ada di Daftar Folder, Silahkan Hubungi Asisten Yang Bersangkutan.
 
+###**Catatan**
+  Jika telah Melakukan Pull Request, Silahkan Konfirmasi Ke Pemiliki Repository atau Asisten Masing - Masing
+  
 ## Tugas Praktikum 1
 Pengumpulan Tugas Praktikum Terakhir Tanggal **12 September 2019, Pukul 23:59 WITA.**
 
