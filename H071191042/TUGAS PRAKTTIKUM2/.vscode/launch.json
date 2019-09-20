@@ -1,0 +1,67 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - tugaspraktikum1",
+            "request": "launch",
+            "mainClass": "tugaspraktikum1",
+            "projectName": "praktikum_fc31bdfc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TugasModul_1",
+            "request": "launch",
+            "mainClass": "TugasModul_1",
+            "projectName": "praktikum_fc31bdfc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - bebek",
+            "request": "launch",
+            "mainClass": "bebek",
+            "projectName": "praktikum_fc31bdfc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Kuadran",
+            "request": "launch",
+            "mainClass": "Kuadran",
+            "projectName": "praktikum_fc31bdfc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - soallatihan",
+            "request": "launch",
+            "mainClass": "soallatihan",
+            "projectName": "praktikum_fc31bdfc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - soallatihan2",
+            "request": "launch",
+            "mainClass": "soallatihan2",
+            "projectName": "praktikum_fc31bdfc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - tugaspraktikum",
+            "request": "launch",
+            "mainClass": "tugaspraktikum",
+            "projectName": "praktikum_fc31bdfc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - coba",
+            "request": "launch",
+            "mainClass": "coba",
+            "projectName": "praktikum_fc31bdfc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - soallatihan3",
+            "request": "launch",
+            "mainClass": "soallatihan3",
+            "projectName": "praktikum_fc31bdfc"
+        }
+    ]
+}
