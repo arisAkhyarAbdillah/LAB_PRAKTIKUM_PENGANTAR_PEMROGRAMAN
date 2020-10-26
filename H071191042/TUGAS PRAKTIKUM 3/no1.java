@@ -5,7 +5,7 @@ import java.lang.*;
 import java.io.*;
 
 /* Name of the class has to be "Main" only if the class is public. */
-class Codechef
+class no1
 {
     public static void main(String[] args) {
         Scanner pew = new Scanner(System.in);
